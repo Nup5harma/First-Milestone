@@ -68,3 +68,37 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## App Screenshots - V1
+
+1. App landing page
+
+   ![App landing page](./assets/1-app-ss.png)
+
+2. Name undefined error
+
+   ![Name undefined error](./assets/2-name-undefined-error-ss.png)
+
+3. Age undefined error
+
+   ![Age undefined error](./assets/3-age-undefined-error-ss.png)
+
+4. Age negative value error
+
+   ![Age negative value error](./assets/4-age-negative-value-error-ss.png)
+
+5. Enter name
+
+   ![Enter name](./assets/5-enter-name-ss.png)
+
+6. User list
+
+   ![User list](./assets/6-user-list-ss.png)
+
+7. User input
+
+   ![User input](./assets/7-user-input-ss.png)
+
+8. User list
+
+   ![User list](./assets/8-user-list-2-ss.png)
